@@ -1,0 +1,23 @@
+name: Unjumble
+favicon: null
+layout_spectrum: 0.5933150253258646
+typography_spectrum: 0.834516562288627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8040230500046164
+  lightness: 0.3629778733011335
+  saturation: 0.6601197200361639
+  rhythmicContrast: 0.3119686765130609
+purpose: []
