@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Unjumble Me]]></title>
+        <description><![CDATA[Unjumble Me]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 12:51:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[11 TED Talks with Smart Work Advice]]></title>
+            <description><![CDATA[<article><h1>11 TED Talks with Smart Work Advice</h1><p>This isn't traditional business advice. These talks offer unconventional, and uncommonly useful, advice on leading, working and making the most of each day.</p><img src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/work_smarter_1200x627.jpg?c=1050%2C550&w=1050"></article>]]></description>
+            <link>http://www.ted.com/playlists/60/work_smarter</link>
+            <guid isPermaLink="false">8692aea9-f667-4229-84e3-50f6e9c58031</guid>
+            <pubDate>Mon, 16 Nov 2015 12:51:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
