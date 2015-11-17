@@ -1,6 +1,6 @@
 name: Unjumble
 favicon: null
-layout_spectrum: 0.75374
+layout_spectrum: 0.00468
 typography_spectrum: 0.834516562288627
 title: Unjumble Me
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.3629778733011335
   saturation: 0.6601197200361639
   rhythmicContrast: 0.3119686765130609
